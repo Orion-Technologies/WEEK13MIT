@@ -13,9 +13,3 @@
 - Build a form with React
 - Create and validate a form with Formik
 - Identify the steps involved in client–server communication
-
-## Aditional projects
-
-[Todo list live view](https://orion-technologies.github.io/To-Do-List/)
-
-[Todo list repository](https://github.com/Orion-Technologies/To-Do-List)
